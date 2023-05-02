@@ -24,11 +24,14 @@ Outline of the README:
 **Client side**
 - React app
 - React-router-dom
-- Bootstrap
-- Axios
+- React icons
 
 ## Design
-The following includes assumptions made and interpretations of the prompt. This is a high level concept of the application.
+
+### Concept
+This will be a high end, fine dining, sushi restaurant.
+
+Diamond Net
 
 
 
