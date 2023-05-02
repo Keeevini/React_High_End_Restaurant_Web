@@ -1,9 +1,13 @@
 import React from 'react';
 
+// import { } from './container';
+import { Navbar } from './components';
+import './App.css';
+
 const App = () => {
 	return (
 		<div>
-			<h1>Test</h1>
+			<Navbar />
 		</div>
 	)
 }
