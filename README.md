@@ -10,7 +10,7 @@ A website for a high end restaurant.
 Outline of the README:
 - [Technologies Used](#Languages/Tech-Stack)
 - [Conceptual designs and thoughts](#Design)
-- [Installation/usage](#Installation/Usage)
+- [Installation/Usage](#Installation/Usage)
 - [Screenshots](#Screenshots)
 
 ### Basic Website Features
