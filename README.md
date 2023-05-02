@@ -8,9 +8,9 @@
 A website for a high end restaurant.
 
 Outline of the README:
-- [Technologies Used](#Languages/Tech-Stack)
+- [Technologies Used](#LanguagesTech-Stack)
 - [Conceptual designs and thoughts](#Design)
-- [Installation/Usage](#Installation/Usage)
+- [Installation/Usage](#InstallationUsage)
 - [Screenshots](#Screenshots)
 
 ### Basic Website Features
