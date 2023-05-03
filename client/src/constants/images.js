@@ -1,7 +1,7 @@
-import diamond_net from '../assets/diamond_net.png';
+import diamond_net_title from '../assets/diamond_net_title.png';
 
 export default {
 
 
-	diamond_net,
+	diamond_net_title,
 };
