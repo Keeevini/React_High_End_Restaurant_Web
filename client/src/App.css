@@ -9,6 +9,16 @@
 }
 
 
+.p__cormorant {
+	font-family: var(--font-base);
+	color: var(--color-white);
+	font-weight: 700;
+	letter-spacing: 0.04em;
+	text-transform: capitalize;
+	font-feature-settings: 'tnum' on, 'lnum' on;
+	line-height: 29.9px;
+	font-size: 23px;
+}
 
 .p__opensans {
 	font-family: var(--font alt);
@@ -28,4 +38,37 @@
 		line-height: 50px;
 	}
 
+}
+
+@media screen and (min-width: 1150px) {
+}
+
+@media screen and (min-width: 850px) {
+	.section__padding {
+		padding: 4rem;
+	}
+}
+
+@media screen and (min-width: 650px) {
+	.section__padding {
+		padding: 4rem 2rem;
+	}
+
+	.p__cormorant {
+		font-size: 21px;
+	}
+
+	.p__opensans {
+		font-size: 14px;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	.p__cormorant {
+		font-size: 19px;
+	}
+
+	.p__opensans {
+		font-size: 12px;
+	}
 }
