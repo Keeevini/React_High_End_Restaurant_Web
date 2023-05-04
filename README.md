@@ -8,10 +8,10 @@
 A website for a high end restaurant.
 
 Outline of the README:
-- [Technologies Used](#-Languages/Tech-Stack)
-- [Conceptual designs and thoughts](#-Design)
-- [Installation/usage](#-Installation/Usage)
-- [Screenshots](#-Screenshots)
+- [Technologies Used](#LanguagesTech-Stack)
+- [Conceptual designs and thoughts](#Design)
+- [Installation/Usage](#InstallationUsage)
+- [Screenshots](#Screenshots)
 
 ### Basic Website Features
 
@@ -24,11 +24,14 @@ Outline of the README:
 **Client side**
 - React app
 - React-router-dom
-- Bootstrap
-- Axios
+- React icons
 
 ## Design
-The following includes assumptions made and interpretations of the prompt. This is a high level concept of the application.
+
+### Concept
+This will be a high end, fine dining, sushi restaurant.
+
+Diamond Net
 
 
 
