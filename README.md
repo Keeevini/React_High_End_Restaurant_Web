@@ -30,7 +30,7 @@ Outline of the README:
 ## Design
 The website needs to showcase this restaurant while also be fully compatible with mobile users.
 
-**Navigation Bar**
+#### Navigation Bar
 
 The bar features a title on the left, section sublinks in the middle, and a login/book on the right. If the width decreases, the section sublinks turn into a hamburger menu that includes a nice translucent overlay.
 
