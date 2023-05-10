@@ -4,6 +4,7 @@ import welcome from '../assets/welcome.png';
 import G from '../assets/G.png';
 import bg from '../assets/bg.png';
 import knife from '../assets/knife.png';
+import menu from '../assets/menu.png';
 
 export default {
 
@@ -13,4 +14,5 @@ export default {
 	welcome,
 	G,
 	bg,
+	menu
 };
