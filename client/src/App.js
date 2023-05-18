@@ -2,7 +2,7 @@ import React from 'react';
 
 // import { } from './container';
 import { Navbar } from './components';
-import { Header } from './containers';
+import { AboutUs, Header, SpecialMenu, Chef } from './containers';
 import './App.css';
 
 const App = () => {
@@ -10,6 +10,9 @@ const App = () => {
 		<div>
 			<Navbar />
 			<Header />
+			<AboutUs />
+			<SpecialMenu />
+			<Chef />
 		</div>
 	)
 }
