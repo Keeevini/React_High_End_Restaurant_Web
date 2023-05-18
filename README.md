@@ -16,6 +16,9 @@ Outline of the README:
 ### Basic Website Features
 - Navigation bar at the top
 - Introductory header section
+- About us section
+- Today's special menu section
+- Chef's section
 
 ### Languages/Tech Stack
 - React
@@ -30,12 +33,12 @@ Outline of the README:
 ## Design
 The website needs to showcase this restaurant while also be fully compatible with mobile users.
 
+### Concept
+This will be a high end, fine dining, sushi restaurant. The themes will be black and gold, a minimalistic "floating" section arrangement.
+
 #### Navigation Bar
 
 The bar features a title on the left, section sublinks in the middle, and a login/book on the right. If the width decreases, the section sublinks turn into a hamburger menu that includes a nice translucent overlay.
-
-### Concept
-This will be a high end, fine dining, sushi restaurant.
 
 ## Installation/Usage
 
