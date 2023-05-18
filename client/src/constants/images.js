@@ -5,6 +5,9 @@ import G from '../assets/G.png';
 import bg from '../assets/bg.png';
 import knife from '../assets/knife.png';
 import menu from '../assets/menu.png';
+import chef from '../assets/chef.png';
+import signature from '../assets/sign.png';
+import quote from '../assets/quote.png';
 
 export default {
 
@@ -14,5 +17,8 @@ export default {
 	welcome,
 	G,
 	bg,
-	menu
+	menu,
+	chef,
+	quote,
+	signature,
 };
