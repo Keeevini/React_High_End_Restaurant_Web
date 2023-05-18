@@ -29,6 +29,7 @@ Outline of the README:
 - React app
 - React-router-dom
 - React icons
+- Github Pages
 
 ## Design
 The website needs to showcase this restaurant while also be fully compatible with mobile users.
